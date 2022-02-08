@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3-react-heat-map/static/css/main.97849a1b.css",
+    "main.js": "/d3-react-heat-map/static/js/main.e45a96e4.js",
+    "static/js/787.487a3d4b.chunk.js": "/d3-react-heat-map/static/js/787.487a3d4b.chunk.js",
+    "index.html": "/d3-react-heat-map/index.html",
+    "main.97849a1b.css.map": "/d3-react-heat-map/static/css/main.97849a1b.css.map",
+    "main.e45a96e4.js.map": "/d3-react-heat-map/static/js/main.e45a96e4.js.map",
+    "787.487a3d4b.chunk.js.map": "/d3-react-heat-map/static/js/787.487a3d4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97849a1b.css",
+    "static/js/main.e45a96e4.js"
+  ]
+}
